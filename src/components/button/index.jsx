@@ -1,9 +1,17 @@
+// @flow
 import React from 'react';
 
-const Button = () => (
-  <div>
-    <button type="button">Click Me!</button>
-  </div>
-);
+type Props = {
+  children: string,
+};
+
+const Button = (props: Props) => {
+  const { children } = props;
+  return (
+    <div>
+      <button type="button">{children}</button>
+    </div>
+  );
+};
 
 export default Button;
