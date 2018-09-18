@@ -5,7 +5,7 @@ Type checking with Flow, React, Babel and Webpack
 Adding static type checking to your React project is easy with [Flow](https://flow.org/).
 I’ll go through the steps for setting up Flow using Babel and Webpack.
 Familiarity with the CLI and Yarn or NPM is important.
-This is intended for those just getting started with Flow.
+[This tutorial](https://medium.com/@joshuacrass/type-checking-with-flow-react-babel-and-webpack-290cbf4cd4b3) is intended for those just getting started with Flow.
 For those seeking a more advanced tutorial, see the official Flow [docs](https://flow.org/en/docs/).
 They are a great resource for learning more about Flow.
 
